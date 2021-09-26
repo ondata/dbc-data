@@ -2,6 +2,9 @@
   descrizione: Campagna  di  pesca  del  tonno  rosso  –  Anno  2021  –  contingente assegnato  alla  pesca sportiva/ricreativa (SPOR), conclusasi con Decreto del 3/08/2021
   nome: pescaTonnoRosso
   note: Dati ricevuti a valle di una richiesta di accesso civico, fatta da Matteo Mannini
+  file:
+    - nome: "pescaTonnoRosso.csv"
+      titolo: "Dati Campagna Pesca Tonno rosso"
   risorse:
     - file: accesso_civico_-_campagna_tonno_rosso.pdf
       titolo: Richiesta accesso civico
