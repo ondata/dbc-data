@@ -1,0 +1,19 @@
+encoding: utf-8
+format: csv
+hashing: md5
+name: pescatonnorosso
+path: ./pescaTonnoRosso.csv
+profile: tabular-data-resource
+schema:
+  fields:
+    - name: Identificativo natante
+      type: integer
+    - name: Data cattura
+      type: date
+    - name: Peso
+      type: number
+    - name: Regione
+      type: string
+    - name: Zona Fao
+      type: string
+scheme: file
