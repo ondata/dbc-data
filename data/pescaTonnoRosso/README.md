@@ -2,15 +2,15 @@
 
 Campagna  di  pesca  del  tonno  rosso – anni 2021 e 2022– contingente assegnato alla pesca sportiva/ricreativa (SPOR).
 
-# File
+## File
 
 - [pescaTonnoRosso.csv](pescaTonnoRosso.csv)
 
-# Note
+## Note
 
 Dati ricevuti a valle di una richiesta di accesso civico, fatta da [Matteo Mannini](https://twitter.com/ManniniMatteo).
 
-# Schema
+## Schema
 
 | name | type | note |
 | --- | --- | --- |
@@ -20,6 +20,6 @@ Dati ricevuti a valle di una richiesta di accesso civico, fatta da [Matteo Manni
 | regione | string |  |
 | zona_FAO | string |  |
 
-# Risorse
+## Risorse
 
 - [Richiesta accesso civico 2021](risorse/accesso_civico_-_campagna_tonno_rosso.pdf)
