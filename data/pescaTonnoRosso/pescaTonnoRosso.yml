@@ -6,14 +6,14 @@ path: ./pescaTonnoRosso.csv
 profile: tabular-data-resource
 schema:
   fields:
-    - name: Identificativo natante
+    - name: identificativo_natante
       type: integer
-    - name: Data cattura
+    - name: data_cattura
       type: date
-    - name: Peso
+    - name: peso_kg
       type: number
-    - name: Regione
+    - name: regione
       type: string
-    - name: Zona Fao
+    - name: zona_FAO
       type: string
 scheme: file
