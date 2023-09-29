@@ -1,6 +1,6 @@
 # Dati Campagna Pesca Tonno rosso
 
-Campagna  di  pesca  del  tonno  rosso – anni 2021 e 2022– contingente assegnato alla pesca sportiva/ricreativa (SPOR).
+Campagna  di  pesca  del  tonno  rosso – anni 2021, 2022 e 2023 – contingente assegnato alla pesca sportiva/ricreativa (SPOR).
 
 ## File
 
