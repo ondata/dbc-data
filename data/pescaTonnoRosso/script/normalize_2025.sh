@@ -21,6 +21,8 @@ duckdb -c "COPY (SELECT \"Identificativo natante 2025\"::BIGINT AS identificativ
 
 mv  "${folder}/tmp/tmp.csv" "${folder}"/../pescaTonnoRosso_2025.csv
 sed -i 's/CAMPOBASSO/MOLISE/g' "${folder}"/../pescaTonnoRosso_2025.csv
+sed -i 's/VENEZIA/VENETO/g' "${folder}"/../pescaTonnoRosso_2025.csv
+sed -i 's/FRIULI VENETO GIULIA/FRIULI VENEZIA GIULIA/g' "${folder}"/../pescaTonnoRosso_2025.csv
 
 # unisci i file
 
